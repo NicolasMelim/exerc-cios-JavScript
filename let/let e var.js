@@ -5,4 +5,6 @@ let precoFinal = preco + imposto;
  console.log(nome);
  console.log(preco);
  console.log(imposto);
- console.log(preco + imposto);
+ console.log(preco + imposto); 
+ // let e var serve para armazenar dados!// 
+ 
